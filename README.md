@@ -79,3 +79,5 @@ The function creates `answers.md` in the same directory. It overwrites an existi
 
 - Download the `crypto_edu` wheel file (`.whl`).
 - Install it using `pip` during class, following the instructor's instructions.
+
+> Email: programmer.pio@proton.me
