@@ -1,7 +1,13 @@
-# Additional setup
+# Plan
 
-- Set up the `history_to_md()` function in IPython.
-- Download the `crypto_edu` wheel file (`.whl`).
+- Update the workspace according to the directory structure and set up the Git repository.
+- Set up the history_to_md() function in IPython.
+- IPython: objects, strings, and string formatting.
+- Save the history.
+- Complete the exercise.
+- Save the history.
+- Download the crypto_edu wheel file (.whl).
+- Set up the cryptographic keys.- aktualizacja workspce wg schematu, git repo
 
 ---
 
